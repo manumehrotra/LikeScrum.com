@@ -1,7 +1,7 @@
 LikeScrum
 =============
 
-Is an opensource project management tool.
+LikeScrum.com is an opensource project management tool.
 
 The beauty of this tool is that it is completely opensource and completely free.
 
