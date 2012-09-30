@@ -1,7 +1,5 @@
-LikeScrum.com
+LikeScrum
 =============
-
-LikeScrum.com
 
 Is an opensource project management tool.
 
